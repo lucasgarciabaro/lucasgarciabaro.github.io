@@ -1,31 +1,27 @@
 ---
+layout: post
+title: 'Welcome to Jekyll!'
+date: '2023-03-27 19:41:18 +0200'
+categories: 'jekyll update'
 ---
 
-LS0tCmxheW91dDogcG9zdAp0aXRsZTogJ1dlbGNvbWUgdG8gSmVreWxsIScK
-ZGF0ZTogJzIwMjMtMDMtMjcgMTk6NDE6MTggKzAyMDAnCmNhdGVnb3JpZXM6
-ICdqZWt5bGwgdXBkYXRlJwotLS0KCllvdSdsbCBmaW5kIHRoaXMgcG9zdCBp
-biB5b3VyIGBfcG9zdHNgIGRpcmVjdG9yeS4gR28gYWhlYWQgYW5kIGVkaXQg
-aXQgYW5kIHJlLWJ1aWxkIHRoZSBzaXRlIHRvIHNlZSB5b3VyIGNoYW5nZXMu
-IFlvdSBjYW4gcmVidWlsZCB0aGUgc2l0ZSBpbiBtYW55IGRpZmZlcmVudCB3
-YXlzLCBidXQgdGhlIG1vc3QgY29tbW9uIHdheSBpcyB0byBydW4gYGpla3ls
-bCBzZXJ2ZWAsIHdoaWNoIGxhdW5jaGVzIGEgd2ViIHNlcnZlciBhbmQgYXV0
-by1yZWdlbmVyYXRlcyB5b3VyIHNpdGUgd2hlbiBhIGZpbGUgaXMgdXBkYXRl
-ZC4KCkpla3lsbCByZXF1aXJlcyBibG9nIHBvc3QgZmlsZXMgdG8gYmUgbmFt
-ZWQgYWNjb3JkaW5nIHRvIHRoZSBmb2xsb3dpbmcgZm9ybWF0OgoKYFlFQVIt
-TU9OVEgtREFZLXRpdGxlLk1BUktVUGAKCldoZXJlIGBZRUFSYCBpcyBhIGZv
-dXItZGlnaXQgbnVtYmVyLCBgTU9OVEhgIGFuZCBgREFZYCBhcmUgYm90aCB0
-d28tZGlnaXQgbnVtYmVycywgYW5kIGBNQVJLVVBgIGlzIHRoZSBmaWxlIGV4
-dGVuc2lvbiByZXByZXNlbnRpbmcgdGhlIGZvcm1hdCB1c2VkIGluIHRoZSBm
-aWxlLiBBZnRlciB0aGF0LCBpbmNsdWRlIHRoZSBuZWNlc3NhcnkgZnJvbnQg
-bWF0dGVyLiBUYWtlIGEgbG9vayBhdCB0aGUgc291cmNlIGZvciB0aGlzIHBv
-c3QgdG8gZ2V0IGFuIGlkZWEgYWJvdXQgaG93IGl0IHdvcmtzLgoKSmVreWxs
-IGFsc28gb2ZmZXJzIHBvd2VyZnVsIHN1cHBvcnQgZm9yIGNvZGUgc25pcHBl
-dHM6Cgp7JSBoaWdobGlnaHQgcnVieSAlfQpkZWYgcHJpbnRfaGkobmFtZSkK
-cHV0cyAiSGksICN7bmFtZX0iCmVuZApwcmludF9oaSgnVG9tJykKIz0+IHBy
-aW50cyAnSGksIFRvbScgdG8gU1RET1VULgp7JSBlbmRoaWdobGlnaHQgJX0K
-CkNoZWNrIG91dCB0aGUgW0pla3lsbCBkb2NzXVtqZWt5bGwtZG9jc10gZm9y
-IG1vcmUgaW5mbyBvbiBob3cgdG8gZ2V0IHRoZSBtb3N0IG91dCBvZiBKZWt5
-bGwuIEZpbGUgYWxsIGJ1Z3MvZmVhdHVyZSByZXF1ZXN0cyBhdCBbSmVreWxs
-4oCZcyBHaXRIdWIgcmVwb11bamVreWxsLWdoXS4gSWYgeW91IGhhdmUgcXVl
-c3Rpb25zLCB5b3UgY2FuIGFzayB0aGVtIG9uIFtKZWt5bGwgVGFsa11bamVr
-eWxsLXRhbGtdLgoK
+You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
